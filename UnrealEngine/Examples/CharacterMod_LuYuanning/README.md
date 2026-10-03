@@ -47,8 +47,8 @@ CharacterConfig "archerm"
    Official guide: [Model Import & Skeleton Matching](https://github.com/L1ngan/EasternEraMod/blob/main/Docs/en-US/ModelImportAndSkeletonMatching.md)
 
 ### Step 3 – Make the portraits
-Make **5 pictures** at these sizes and import them into `UI/`: 
-Everything but the avatar needs to be manually edited to be the right size. Use your image and then compare it to an example picture so it sits right.
+Make **5 pictures** at these sizes and import them into `UI`: 
+Everything but avatar needs to be manually edited to be the right size. Use your image and then compare it to an example picture so it sits right.
 
 | Field in CharacterConfig | Size (pixels) | Where it shows | Lu Yuanning's file |
 |---|---|---|---|
