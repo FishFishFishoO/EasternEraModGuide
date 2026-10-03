@@ -1,0 +1,24 @@
+{
+	"ModId": "portraits",
+	"ModName": "Portraits",
+	"Version": "1.0.0",
+	"Author": "FishFishFish",
+	"Description": "Add new portraits to the game.",
+	"Icon": "",
+	"MainLuaFile": "Main.lua",
+	"ModInformationAssetPath": "/Game/Mods/portraits/DA_ModDataAsset.DA_ModDataAsset",
+	"NewGameLoad": true,
+	"MinGameVersion": "0.1",
+	"IncludeGameplayTags": false,
+	"GameplayTagsIniFile": "",
+	"AdditionalAssets": [],
+	"Dependencies": [],
+	"DataTableConfigs": [],
+	"DataAssetConfigs": [
+		{
+			"AssetType": "NewGameConfiguration",
+			"JsonFile": "Config/NewGameConfiguration.json",
+			"bOverrideData": false
+		}
+	]
+}
