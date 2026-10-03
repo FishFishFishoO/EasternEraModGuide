@@ -4,7 +4,7 @@ A beginner-friendly, step-by-step guide to modding **[Eastern Era](https://store
 No experience needed. Stuck? Open an [Issue](../../issues) and ask!
 
 > Fan-made guide. Not made by or affiliated with the Eastern Era developers.
-> Official Mod Kit: **[L1ngan/EasternEraMod](https://github.com/L1ngan/EasternEraMod/tree/main)**
+> Mod Kit: **[L1ngan/EasternEraMod](https://github.com/L1ngan/EasternEraMod/tree/main)**
 
 ---
 
